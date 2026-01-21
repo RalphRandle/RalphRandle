@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ralph 👋
 
-<!--
-**RalphRandle/RalphRandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**3rd Year Physics Student @ Kocaeli University**
 
-Here are some ideas to get you started:
+I am passionate about **Computational Physics**, **Particle Detectors**, and **Quantum Mechanics**. My focus is on bridging the gap between theoretical physics and experimental simulation using modern software tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚛️ Scientific Interests
+- **Particle Physics:** Subatomic phenomena & detector simulation.
+- **Medical Physics:** Proton therapy & Bragg Peak analysis.
+- **Quantum Mechanics:** Fundamental principles & formal theory.
+
+---
+
+### 🛠️ Technical Stack
+* **Languages:** C++, Python, LaTeX
+* **Simulation & Analysis:** Geant4, CERN ROOT
+* **Environment:** Linux (Ubuntu), Visual Studio, Git
+
+---
+
+### 🔭 Currently Working On
+- Developing a **Geant4 simulation** to analyze proton energy deposition (Bragg Peak) in water phantoms.
+- Deepening knowledge in **Quantum Mechanics I** and **Classical Mechanics**.
+- Preparing for **Erasmus+** opportunities in Switzerland.
+
+---
+📫 **Contact:** [github.com/RalphRandle](https://github.com/RalphRandle)
